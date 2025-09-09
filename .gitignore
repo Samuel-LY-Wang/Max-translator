@@ -218,3 +218,4 @@ __marimo__/
 processed_data
 raw_data
 **/.DS_Store
+test.py
